@@ -1,0 +1,8 @@
+{
+  "name": "ADLTrack",
+  "description": "The Care Operating System. A structured, evidence-based care platform bridging the trust gap between caregivers and families.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
